@@ -1,0 +1,4 @@
+txtai
+streamlit
+numpy 
+nltk
